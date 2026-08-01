@@ -11,4 +11,3 @@ Use this website to:
 * Find useful information for current and prospective members
 
 The website serves as the main reference point for anyone interested in joining or learning more about Polympiads.
-
